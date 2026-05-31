@@ -1,4 +1,5 @@
 # Hi  I'm hhz  
+`Email` : `hello@hhz114514.qzz.io` or `echo 'aGh6NDA0QG91dGxvb2suY29t' | base64 -d`
 ###### sth ：
 ###### Why the username is `bilihhz`?  
 ###### I don't know, this has nothing to do with bliibili. I register this account when I was little, I don't know what I was thinking when I was little.   
